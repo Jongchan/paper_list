@@ -1,4 +1,4 @@
 1. Neural Architecture Search with Reinforcement Learning, Barret Zoph, Quoc V. Le [[paper](https://arxiv.org/1578)] [[my own slides](http://bit.ly/170525JC)] [[author's slides](http://rll.berkeley.edu/deeprlcourse/docs/quoc_barret.pdf)] [[ICLR review](https://openreview.net/forum?id=r1Ue8Hcxg&noteId=r1Ue8Hcxg)]
 2. Designing Neural Network Architectures using Reinforcement Learning, Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar [[paper](https://arxiv.org/abs/1611.02167)] [[ICLR review](https://openreview.net/forum?id=S1c2cvqee&noteId=S1c2cvqee)]
 3. Large-Scale Evolution of Image Classifiers, Esteban Real et al [[paper](https://arxiv.org/abs/1703.01041)] [[critic](https://twitter.com/alexjc/status/838785549443993600)] 
-4. Reinforcemente Learning for Learning Rate Control [[paper](https://arxiv.org/pdf/1705.11159.pdf)]
+4. Reinforcement Learning for Learning Rate Control [[paper](https://arxiv.org/pdf/1705.11159.pdf)]
